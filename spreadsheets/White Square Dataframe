@@ -1,4 +1,5 @@
 Models,Value Accuracy,Value Loss
-<keras.engine.sequential.Sequential object at 0x000001DB096D1A60>,0.5057142972946167,0.6932002305984497
-<keras.engine.sequential.Sequential object at 0x000001DB1337A550>,0.5493749976158142,0.6867647171020508
-<keras.engine.sequential.Sequential object at 0x000001DB01999E80>,0.567767858505249,0.6832565665245056
+<keras.engine.sequential.Sequential object at 0x000001DD5D0FD8B0>,0.4985714256763458,0.6944359540939331
+<keras.engine.sequential.Sequential object at 0x000001DD4FE50400>,0.4982142746448517,0.6935915946960449
+<keras.engine.sequential.Sequential object at 0x000001DD5E719880>,0.49794644117355347,0.6951512694358826
+<keras.engine.sequential.Sequential object at 0x000001DDAF2746D0>,0.5,0.7518377900123596
